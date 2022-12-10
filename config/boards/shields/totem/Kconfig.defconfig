@@ -1,7 +1,7 @@
 # Copyright (c) 2022 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-
+CONFIG_NFCT_PINS_AS_GPIOS=y
 
 if SHIELD_TOTEM_LEFT
 
