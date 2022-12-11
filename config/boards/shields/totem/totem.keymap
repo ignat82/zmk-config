@@ -79,13 +79,13 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-    &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
+    &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &bt BT_CLR      &bt BT_NXT  &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
     &kp A       &kp S       &kp D       &kp F       &kp G       &kp H       &kp J           &kp A       &kp S       &kp D       &kp F       &kp G       &kp H       &kp J
     &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
     &kp A       &kp S       &kp D       &kp F       &kp G       &kp H                                   &kp S       &kp D       &kp F       &kp G       &kp H       &kp J
     &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
                                                     &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E
-                        >;
+         u               >;
                 };
 
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
