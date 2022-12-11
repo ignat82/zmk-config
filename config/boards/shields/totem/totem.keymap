@@ -73,12 +73,12 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-    &kp Q       &kp Q       &kp W       &kp F       &kp P       &kp P       &kp G           &kp J       &kp L       &kp U       &kp Y       &kp SEMI    &kp Q       &kp Q
-    &kp Q       &kp Q       &kp Q       &kp Q       &kp P       &kp Q       &kp D           &kp H       &kp Q       &kp Q       &kp Q       &kp Q       &kp Q       &kp Q
-    &kp Z       &kp Z       &kp X       &kp C       &kp P       &kp V       &kp B           &kp K       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp FSLH    &kp Q
-    &kp Q       &kp Q       &kp Q       &kp TAB     &kp P       &kp TAB                                 &kp BSPC    &kp BSPC    &kp Q       &kp Q       &kp Q       &kp Q
-    &kp Q       &kp Q       &kp Q       &kp TAB     &kp P       &kp TAB     &kp Q           &kp Q       &kp BSPC    &kp BSPC    &kp Q       &kp Q       &kp Q       &kp Q
-                                                    &kp P       &kp TAB     &kp Q           &kp Q       &kp BSPC    &kp BSPC
+    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
+    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
+    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
+    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y                                   &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
+    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
+                                                    &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e
                         >;
                 };
 
