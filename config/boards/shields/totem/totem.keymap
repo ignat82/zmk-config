@@ -57,7 +57,7 @@
 // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 label= "BASE"                              ;
 // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-//qwfpgjlqwfffbkm,
+//
 // ┏━━━━━━━━━━━╋━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓   ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
 // ┃     Q     ┃     Q     ┃     W     ┃     F     ┃     P     ┃     G     ┃     G     ┃   ┃     J     ┃     L     ┃     U     ┃     Y     ┃     ;     ┃     Y     ┃     ;     ┃
 // ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
@@ -74,12 +74,12 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
-    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
-    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
-    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y                                   &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
-    &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e       &kp r       &kp t       &kp y       &kp u
-                                                    &kp t       &kp y       &kp u           &kp Q       &kp w       &kp e
+    &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
+    &kp A       &kp S       &kp D       &kp F       &kp G       &kp H       &kp J           &kp A       &kp S       &kp D       &kp F       &kp G       &kp H       &kp J
+    &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
+    &kp A       &kp S       &kp D       &kp F       &kp G       &kp H                                   &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
+    &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U
+                                                    &kp T       &kp Y       &kp U           &kp Q       &kp W       &kp E
                         >;
                 };
 
