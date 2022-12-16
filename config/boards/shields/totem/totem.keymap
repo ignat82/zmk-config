@@ -51,6 +51,13 @@
             bindings = <&kp LEFT_ARROW>, <&kp RIGHT_ARROW>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
+        left_up: left_arrow_up_arrow {
+            compatible = "zmk,behavior-mod-morph";
+            label = "LEFT_ARROW_UP_ARROW";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_ARROW>, <&kp RIGHT_ARROW>;
+            mods = <(MOD_LSFT|MOD_RSFT)>;
+        };
     };
 
         keymap {
@@ -85,7 +92,7 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp N1   	&kp N2  	&kp N3  	&kp N4  	&kp N5  	&kp C_SLEEP	&kp K_SLEEP 	&kp N6 	    &kp N7	    &kp N8	    &kp N9	    &kp N0	    &bt BT_N BT_CL
+     &bt BT_CL  &kp N1   	&kp N2  	&kp N3  	&kp N4  	&kp N5  	&kp C_SLEEP	&kp K_SLEEP 	&kp N6 	    &kp N7	    &kp N8	    &kp N9	    &kp N0	    &bt BT_N
 	&kp PG_UP	&kp Q	    &kp W	    &kp E    	&kp R	    &kp T    	&kp CAPS		&kp ESC	    &kp Y   	&kp U	    &kp I	    &kp  O	    &kp P   	&kp PG_DN
 	&kp GRAVE	&kp A	    &kp S	    &kp D	    &kp F	    &kp G	    &kp BSPC		&kp DEL  	&kp H	    &kp J	    &kp  K	    &kp L	    &kp SEMI	&kp SQT
     &kp LWIN	&kp Z	    &kp X	    &kp C	    &kp V	    &kp B			                    	&kp N	    &kp M   	&kp COMMA	&kp DOT  	&kp SLASH
