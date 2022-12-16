@@ -97,7 +97,7 @@ label= "BASE"                              ;
 	&kp GRAVE  &kp A	    &kp S	    &kp D	    &kp F	    &kp G	    &kp BSPC		&kp DEL  	&kp H	    &kp J	    &kp  K	    &kp L	    &kp SEMI	&kp SQT
     &kp LWIN   &kp Z	    &kp X	    &kp C	    &kp V	    &kp B			                    	&kp N	    &kp M   	&kp COMMA	&kp DOT  	&kp SLASH
     &kp INS	   &kp LCTRL  &kp PAUSE_BREAK &kp HOME	&kp LBKT	&kp LSHFT	&kp TAB		    &kp SPACE	&kp RSHFT	&kp RBKT	&kp END  	&kp BSLH	&kp RCTRL	&kp PSCRN
-			                                    	&kp ENTER &kp left_up   &kp +=		    &kp -_	  &kp right_down &kp RALT
+			                                    	&kp ENTER &kp left_up   &kp EQUAL		&kp MINUS   &kp right_down &kp RALT
                         >;
                 };
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
