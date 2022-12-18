@@ -53,9 +53,9 @@
         };
         bt_clear_next: bt_clear_bt_next {
             compatible = "zmk,behavior-mod-morph";
-            label = "BT_CLEAR_BT_NEXT";
+            label = "BT_CL_BT_N";
             #binding-cells = <0>;
-            bindings = <&kp BT_N>, <&kp BT_CL>;
+            bindings = <&bt BT_N>, <&bt BT_CL>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
     };
@@ -92,7 +92,7 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-    &kp ESC    &kp N1   	&kp N2  	&kp N3  	&kp N4  	&kp N5  	&kp C_SLEEP	    &kp K_SLEEP &kp N6 	    &kp N7	    &kp N8	    &kp N9	    &kp N0	    &bt_clear_bt_next
+    &kp ESC    &kp N1   	&kp N2  	&kp N3  	&kp N4  	&kp N5  	&kp C_SLEEP	    &kp K_SLEEP &kp N6 	    &kp N7	    &kp N8	    &kp N9	    &kp N0	    &bt_clear_next
 	&kp TAB    &kp Q	    &kp W	    &kp E    	&kp R	    &kp T    	&kp PG_UP		&kp PG_DN   &kp Y   	&kp U	    &kp I	    &kp  O	    &kp P   	&kp LWIN
 	&kp GRAVE  &kp A	    &kp S	    &kp D	    &kp F	    &kp G	    &kp BSPC		&kp DEL  	&kp H	    &kp J	    &kp  K	    &kp L	    &kp SEMI	&kp SQT
     &kp CAPS   &kp Z	    &kp X	    &kp C	    &kp V	    &kp B			                    	&kp N	    &kp M   	&kp COMMA	&kp DOT  	&kp SLASH   &kp LCTRL
