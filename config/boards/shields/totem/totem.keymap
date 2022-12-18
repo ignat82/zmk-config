@@ -55,7 +55,7 @@
             compatible = "zmk,behavior-mod-morph";
             label = "BT_CLEAR_BT_NEXT";
             #binding-cells = <0>;
-            bindings = <&kp BT_NEXT>, <&kp BT_CLEAR>;
+            bindings = <&kp BT_N>, <&kp BT_CL>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
     };
