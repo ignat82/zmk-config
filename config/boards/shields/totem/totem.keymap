@@ -102,7 +102,7 @@
         };
         n8_f8: kp_n8_kp_f8 {
           compatible = "zmk,behavior-mod-morph";
-          label = "KP_N1_KP_F1";
+          label = "KP_N8_KP_F8";
           #binding-cells = <0>;
           bindings = <&kp N8>, <&kp F8>;
          mods = <(MOD_LALT|MOD_RALT)>;
@@ -133,7 +133,7 @@ label= "BASE"                              ;
 // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 //
 //
-//
+//8234567890
 //
 //
 //
