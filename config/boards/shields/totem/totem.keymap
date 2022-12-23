@@ -72,7 +72,7 @@
           bindings = <&kp N3>, <&kp F3>;
          mods = <(MOD_LALT|MOD_RALT)>;
         };
-        n1_f4: kp_n4_kp_f4 {
+        n4_f4: kp_n4_kp_f4 {
           compatible = "zmk,behavior-mod-morph";
           label = "KP_N4_KP_F4";
           #binding-cells = <0>;
@@ -155,7 +155,7 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-    &kp ESC    &n1_f1       &n2_f2   	&n3_f3  	&n4_f4  	&n5_f5  	&n6_f6  	&kp C_SLEEP	    &bt BT_CLR  &n7_f7 	    &n8_f8	    &n9_f9	    &n0_f10	    &n1_f1	    &bt BT_NXT
+    &kp ESC    &n1_f1       &n2_f2   	&n3_f3  	&n4_f4  	&n5_f5  	&n6_f6  	   &kp C_SLEEP	&bt BT_CLR  &n7_f7 	    &n8_f8	    &n9_f9	    &n0_f10	    &n1_f1	    &bt BT_NXT
 	&kp TAB    &kp Q	    &kp W	    &kp E    	&kp R	    &kp T    	&kp K_SLEEP	 &kp PAUSE_BREAK &kp Y   	&kp U	    &kp I	    &kp  O	    &kp P   	&kp LWIN
 	&kp GRAVE  &kp A	    &kp S	    &kp D	    &kp F	    &kp G	    &kp PG_UP		&kp PG_DN  	&kp H	    &kp J	    &kp  K	    &kp L	    &kp SEMI	&kp SQT
     &kp CAPS   &kp Z	    &kp X	    &kp C	    &kp V	    &kp B			                    	&kp N	    &kp M   	&kp COMMA	&kp DOT  	&kp SLASH   &kp BSLH
