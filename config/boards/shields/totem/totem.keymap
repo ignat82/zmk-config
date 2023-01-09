@@ -51,15 +51,6 @@
             bindings = <&kp LEFT_ARROW>, <&kp UP_ARROW>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
-
-        R_f6: 6_lsft_f6 {
-            compatible = "zmk,behavior-mod-morph";
-            label = "6_LSFT_F6";
-            #binding-cells = <0>;
-            bindings = <&kp 6>, <&kp F6>;
-            mods = <(MOD_LSFT)>;
-        };
-
         n1_f1: kp_n1_kp_f1 {
           compatible = "zmk,behavior-mod-morph";
           label = "KP_N1_KP_F1";
