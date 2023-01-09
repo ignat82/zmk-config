@@ -57,8 +57,7 @@
             label = "6_LSFT_F6";
             #binding-cells = <0>;
             bindings = <&kp 6>, <&kp F6>;
-            mods = <(MOD_LSFT&MOD_LALT)>;
-            keepmods = <(MOD_LSFT)>;
+            mods = <(MOD_LSFT)>;
         };
 
         n1_f1: kp_n1_kp_f1 {
